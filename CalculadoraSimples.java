@@ -9,7 +9,7 @@ public class CalculadoraSimples {
         Scanner entrada = new Scanner(System.in);
 
         //Apresentação
-        System.out.println("\n\t\t\t -- Calculadora Simples Demais --\n");
+        System.out.println("\n\t\t\t -- Calculadora Simples Demais dos mais mais --\n");
 
         //Menu
         System.out.println("1. Soma");
